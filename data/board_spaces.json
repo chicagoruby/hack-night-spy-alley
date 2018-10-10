@@ -1,0 +1,258 @@
+[
+  {
+    "name": "Start: Get $15",
+    "position": 1,
+    "inSpyAlley": false,
+    "description": "Collect $15 when you land on or pass start",
+    "value": 15,
+    "required": true
+  },
+  {
+    "name": "Russian PW $1",
+    "position": 2,
+    "inSpyAlley": false,
+    "description": "Do you wish to purchase a Russian password for $1?",
+    "value": 0,
+    "required": false
+  },
+  {
+    "name": "Move Card",
+    "position": 3,
+    "inSpyAlley": false,
+    "description": "Pick up a move card from the move card deck",
+    "value": 0,
+    "required": true
+  },
+  {
+    "name": "Disguises $5",
+    "position": 4,
+    "inSpyAlley": false,
+    "description": "Do you wish to purchase 1 or more disguises for $5 each?",
+    "value": 0,
+    "required": false
+  },
+  {
+    "name": "American PW $1",
+    "position": 5,
+    "inSpyAlley": false,
+    "description": "Do you wish to purchase an American password for $1?",
+    "value": 0,
+    "required": false
+  },
+  {
+    "name": "Move Card",
+    "position": 6,
+    "inSpyAlley": false,
+    "description": "Pick up a move card from the move card deck",
+    "value": 0,
+    "required": true
+  },
+  {
+    "name": "Roll Again",
+    "position": 7,
+    "inSpyAlley": false,
+    "description": "Roll again",
+    "value": 0,
+    "required": true
+  },
+  {
+    "name": "Free Gift",
+    "position": 8,
+    "inSpyAlley": false,
+    "description": "Pick up a gift card from the gift card deck",
+    "value": 0,
+    "required": true
+  },
+  {
+    "name": "Get $10",
+    "position": 9,
+    "inSpyAlley": false,
+    "description": "Sold Top Secret Information - Collect $10",
+    "value": 10,
+    "required": true
+  },
+  {
+    "name": "Italian PW $1",
+    "position": 10,
+    "inSpyAlley": false,
+    "description": "Do you wish to purchase an Italian password for $1?",
+    "value": 0,
+    "required": false
+  },
+  {
+    "name": "Keys $30",
+    "position": 11,
+    "inSpyAlley": false,
+    "description": "Do you wish to purchase 1 or more keys for $30 each?",
+    "value": 0,
+    "required": false
+  },
+  {
+    "name": "Spanish PW $1",
+    "position": 12,
+    "inSpyAlley": false,
+    "description": "Do you wish to purchase a Spanish password for $1?",
+    "value": 0,
+    "required": false
+  },
+  {
+    "name": "Move Card",
+    "position": 13,
+    "inSpyAlley": false,
+    "description": "Pick up a move card from the move card deck",
+    "value": 0,
+    "required": true
+  },
+  {
+    "name": "Black Market",
+    "position": 14,
+    "inSpyAlley": false,
+    "description": "Do you wish to choose one item to purchase?",
+    "value": 0,
+    "required": false
+  },
+  {
+    "name": "Spy Alley",
+    "position": 15,
+    "inSpyAlley": false,
+    "description": "You must enter spy alley if you land here",
+    "value": 0,
+    "required": false
+  },
+  {
+    "name": "Pay $5",
+    "position": 16,
+    "inSpyAlley": false,
+    "description": "Border Crossing - Pay $5",
+    "value": -5,
+    "required": true
+  },
+  {
+    "name": "Move Back",
+    "position": 17,
+    "inSpyAlley": false,
+    "description": "Move Back 2 Spaces",
+    "value": 0,
+    "required": true
+  },
+  {
+    "name": "German PW $1",
+    "position": 18,
+    "inSpyAlley": false,
+    "description": "Do you wish to purchase a German password for $1?",
+    "value": 0,
+    "required": false
+  },
+  {
+    "name": "Code Books $15",
+    "position": 19,
+    "inSpyAlley": false,
+    "description": "Do you wish to purchase 1 or more code books for $15 each?",
+    "value": 0,
+    "required": false
+  },
+  {
+    "name": "Move Card",
+    "position": 20,
+    "inSpyAlley": false,
+    "description": "Pick up a move card from the move card deck",
+    "value": 0,
+    "required": true
+  },
+  {
+    "name": "Free Gift",
+    "position": 21,
+    "inSpyAlley": false,
+    "description": "Pick up a gift card from the gift card deck",
+    "value": 0,
+    "required": true
+  },
+  {
+    "name": "French PW $1",
+    "position": 22,
+    "inSpyAlley": false,
+    "description": "Do you wish to purchase a French password for $1?",
+    "value": 0,
+    "required": false
+  },
+  {
+    "name": "Move Card",
+    "position": 23,
+    "inSpyAlley": false,
+    "description": "Pick up a move card from the move card deck",
+    "value": 0,
+    "required": true
+  },
+  {
+    "name": "Black Market",
+    "position": 24,
+    "inSpyAlley": false,
+    "description": "Do you wish to choose one item to purchase?",
+    "value": 0,
+    "required": false
+  },
+  {
+    "name": "Get $20",
+    "position": 1,
+    "inSpyAlley": true,
+    "description": "Sold Top Secret Information - Collect $20",
+    "value": 20,
+    "required": true
+  },
+  {
+    "name": "Spy Eliminator",
+    "position": 2,
+    "inSpyAlley": true,
+    "description": "Take a free guess at all players in spy alley",
+    "value": 0,
+    "required": true
+  },
+  {
+    "name": "FRANCE",
+    "position": 3,
+    "inSpyAlley": true,
+    "description": "If your identity is French and you land here with all of your French pegs, you win",
+    "value": 0,
+    "required": false
+  },
+  {
+    "name": "GERMANY",
+    "position": 4,
+    "inSpyAlley": true,
+    "description": "If your identity is German and you land here with all of your German pegs, you win",
+    "value": 0,
+    "required": false
+  },
+  {
+    "name": "SPAIN",
+    "position": 5,
+    "inSpyAlley": true,
+    "description": "If your identity is Spanish and you land here with all of your Spanish pegs, you win",
+    "value": 0,
+    "required": false
+  },
+  {
+    "name": "ITALY",
+    "position": 6,
+    "inSpyAlley": true,
+    "description": "If your identity is Italian and you land here with all of your Italian pegs, you win",
+    "value": 7,
+    "required": false
+  },
+  {
+    "name": "USA",
+    "position": 7,
+    "inSpyAlley": true,
+    "description": "If your identity is American and you land here with all of your American pegs, you win",
+    "value": 0,
+    "required": false
+  },
+  {
+    "name": "RUSSIA",
+    "position": 8,
+    "inSpyAlley": true,
+    "description": "If your identity is Russian and you land here with all of your Russian pegs, you win",
+    "value": 0,
+    "required": false
+  }
+]

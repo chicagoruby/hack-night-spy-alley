@@ -1,0 +1,202 @@
+[
+  {
+    "type": "Item",
+    "description": "Take a French Password",
+    "value": 0
+  },
+  {
+    "type": "Item",
+    "description": "Take a German Password",
+    "value": 0
+  },
+  {
+    "type": "Item",
+    "description": "Take a Spanish Password",
+    "value": 0
+  },
+  {
+    "type": "Item",
+    "description": "Take a Italian Password",
+    "value": 0
+  },
+  {
+    "type": "Item",
+    "description": "Take a American Password",
+    "value": 0
+  },
+  {
+    "type": "Item",
+    "description": "Take a Russian Password",
+    "value": 0
+  },
+  {
+    "type": "Item",
+    "description": "Take a French Disguise",
+    "value": 0
+  },
+  {
+    "type": "Item",
+    "description": "Take a German Disguise",
+    "value": 0
+  },
+  {
+    "type": "Item",
+    "description": "Take a Spanish Disguise",
+    "value": 0
+  },
+  {
+    "type": "Item",
+    "description": "Take a Italian Disguise",
+    "value": 0
+  },
+  {
+    "type": "Item",
+    "description": "Take a American Disguise",
+    "value": 0
+  },
+  {
+    "type": "Item",
+    "description": "Take a Russian Disguise",
+    "value": 0
+  },
+  {
+    "type": "Item",
+    "description": "Take a French Code Book",
+    "value": 0
+  },
+  {
+    "type": "Item",
+    "description": "Take a German Code Book",
+    "value": 0
+  },
+  {
+    "type": "Item",
+    "description": "Take a Spanish Code Book",
+    "value": 0
+  },
+  {
+    "type": "Item",
+    "description": "Take a Italian Code Book",
+    "value": 0
+  },
+  {
+    "type": "Item",
+    "description": "Take a American Code Book",
+    "value": 0
+  },
+  {
+    "type": "Item",
+    "description": "Take a Russian Code Book",
+    "value": 0
+  },
+  {
+    "type": "Item",
+    "description": "Take a French Key",
+    "value": 0
+  },
+  {
+    "type": "Item",
+    "description": "Take a German Key",
+    "value": 0
+  },
+  {
+    "type": "Item",
+    "description": "Take a Spanish Key",
+    "value": 0
+  },
+  {
+    "type": "Item",
+    "description": "Take a Italian Key",
+    "value": 0
+  },
+  {
+    "type": "Item",
+    "description": "Take a American Key",
+    "value": 0
+  },
+  {
+    "type": "Item",
+    "description": "Take a Russian Key",
+    "value": 0
+  },
+  {
+    "type": "Wildcard",
+    "description": "Wildcard may be used in place of any unfilled peg",
+    "value": 0
+  },
+  {
+    "type": "Wildcard",
+    "description": "Wildcard may be used in place of any unfilled peg",
+    "value": 0
+  },
+  {
+    "type": "Money",
+    "description": "Collect $5",
+    "value": 5
+  },
+  {
+    "type": "Money",
+    "description": "Collect $5",
+    "value": 5
+  },
+  {
+    "type": "Money",
+    "description": "Collect $5",
+    "value": 5
+  },
+  {
+    "type": "Money",
+    "description": "Collect $5",
+    "value": 5
+  },
+  {
+    "type": "Money",
+    "description": "Collect $10",
+    "value": 10
+  },
+  {
+    "type": "Money",
+    "description": "Collect $10",
+    "value": 10
+  },
+  {
+    "type": "Money",
+    "description": "Collect $10",
+    "value": 10
+  },
+  {
+    "type": "Money",
+    "description": "Collect $10",
+    "value": 10
+  },
+  {
+    "type": "Money",
+    "description": "Collect $15",
+    "value": 15
+  },
+  {
+    "type": "Money",
+    "description": "Collect $15",
+    "value": 15
+  },
+  {
+    "type": "Money",
+    "description": "Collect $15",
+    "value": 15
+  },
+  {
+    "type": "Money",
+    "description": "Collect $15",
+    "value": 15
+  },
+  {
+    "type": "Money",
+    "description": "Collect $20",
+    "value": 20
+  },
+  {
+    "type": "Money",
+    "description": "Collect $20",
+    "value": 20
+  }
+]
