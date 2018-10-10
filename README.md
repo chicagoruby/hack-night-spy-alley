@@ -7,7 +7,7 @@ Spy Alley is a multi-player board game that plays like a mixture between Clue an
 
 ## Set Up
 
-![Spy Alley Score Card](http://1.bp.blogspot.com/-iRktDJivhSk/VErOpFjH6NI/AAAAAAAAJHI/J4di6txucJE/s1600/DSCN0745.JPG)
+![Spy Alley Score Card](https://cdn.shopify.com/s/files/1/0704/5013/products/board-games-spy-alley-4_800x.jpg?v=1494376588)
 
 Each player chooses a game marker and receives a score card,a bank (equal to $10 times the number of players), and chooses a spy identity. The spy identity is to be kept secret.
 
@@ -23,11 +23,11 @@ The game is played on a rectangular board. The perimeter of the board contains d
 - Receive a free gift
 - Make another move
 
-![Spy Alley Board](https://images-na.ssl-images-amazon.com/images/I/7138aqOEoXL._SY741_.jpg)
-
 The game is played with a standard six-sided dice. During each player's turn, she will either roll the dice or use a move card (if she has one) to move her marker. Some of the space actions are optional, while some are compulsory. Instructions for how to play each space are included in the json.
 
 In addition to the spaces around the perimeter, there is a route that cuts through the center of the board called "Spy Alley". Spy alley is where all of the spy embassies are located. An important note about spy alley is that, for the most part, entering into spy alley is optional (with the exception of if the player ends her turn on the Spy Alley space).
+
+![Spy Alley Board](https://images-na.ssl-images-amazon.com/images/I/7138aqOEoXL._SY741_.jpg)
 
 There are two ways to win the game. The player whose turn it is can be the last player standing, or they can collect all of the spy item pegs for their identity and land on their embassy in Spy Alley.
 
